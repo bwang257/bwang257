@@ -10,6 +10,10 @@ I'm a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Mathema
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
 
+### Contact
+- Email: brian.wang372@gmail.com
+- LinkedIn: https://www.linkedin.com/in/brian372/
+
 ---
 
 ### Latest Projects
