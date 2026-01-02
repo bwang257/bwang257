@@ -16,8 +16,8 @@ I'm a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Mathema
 
 * **[Exchange Simulator (C++)](https://github.com/bwang257/exchange-simulator)**: Single-symbol limit order book and matching engine using price–time priority with deterministic event emission and unit tests.
 * **[Algorithmic Trading Research (Python)](https://github.com/bwang257/IQP-2524-Stock-Market-Simulation)**: Designed and evaluated statistical and regime-aware trading strategies with explicit risk metrics and post-mortem analysis.
-* **[Portfolio Optimization Tool (Python)](https://portfolio-optimization-app.vercel.app)**: Implemented a portfolio optimizer using Sharpe, Sortino, and Calmar ratios with constraint-based allocation.
-* **Internship Tracker (Full-stack)**: Production-deployed web application with authentication, analytics, and scraping pipelines, built to support real user workflows.
+* **[Portfolio Optimization Tool (Full-stack)](https://portfolio-optimization-app.vercel.app)**: Implemented a portfolio optimizer using Sharpe, Sortino, and Calmar ratios with constraint-based allocation.
+* **Internship Tracker (Full-stack, Course Project)**: Production-deployed web application with authentication, analytics, and scraping pipelines, built to support real user workflows.
 
 ---
 
