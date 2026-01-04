@@ -13,6 +13,7 @@ I'm a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Mathema
 ### Contact
 - Email: brian.wang372@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brian372/
+- Personal Website: https://bwang257.github.io/
 
 ---
 
