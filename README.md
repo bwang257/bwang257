@@ -1,8 +1,5 @@
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/e528eefa-b85d-4539-9056-bf5c75303e90" />
+Hi! I'm Brian, a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Mathematics with an interest in performance, correctness, and applied data problems. Currently focused on C++ and Python development. 
 
----
-
-I'm a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Mathematics with an interest in performance, correctness, and applied data problems. Currently focused on systems-level C++ development, with experience shipping backend and full-stack applications.
 ### Programming Languages
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
