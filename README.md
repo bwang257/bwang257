@@ -1,4 +1,4 @@
-Hi! I'm Brian, a rising junior at Worcester Polytechnic Institute (WPI) studying CS and Mathematics with an interest in performance, correctness, and efficiency. I'm a SWE intern at the startup CYVL this summer, with a current focus on machine learning, applied AI, and CV. I'd love to connect! 
+Hi! I'm Brian, a rising junior at Worcester Polytechnic Institute (WPI) studying CS and Mathematics with an interest in performance, correctness, and efficiency. I'm a SWE intern at the startup CYVL this summer, with a current focus on machine learning, data science, and data ops. I'd love to connect! 
 
 ### Programming Languages
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
