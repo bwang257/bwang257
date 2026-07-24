@@ -22,5 +22,4 @@ Always interested in meeting new people and working toward learning and building
 * **Internship Tracker (Full-stack, Course Project)**: Production-deployed web application with authentication, analytics, and scraping pipelines, built to support real user workflows.
 
 ---
-I like to make sure I code a little each day:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwang257&" alt="bwang257" /></p>
